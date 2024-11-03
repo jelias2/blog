@@ -86,5 +86,4 @@ description: Book reviews and recommendations, reading goal tracker
 * **{{ book.title }}**{% if book.author %} by {{ book.author }}{% endif %}
 {% if book.summary %}  * {{ book.summary }}{% endif %}
 {% if book.rating %}  * My rating: {{ book.rating }}{% endif %}
-{% if book.completeDate %}  * Completed: {{ book.completeDate }}{% endif %}
 {% endfor %}
