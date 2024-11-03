@@ -9,15 +9,33 @@
 - title: Kafka on the Shore
   author: Haruki Murakami
   summary: \"Kakfa and Nakata meader throughout Japan as paranormal effects occur, in Murakami fashion he keeps the reader wondering how these two paths will collide uuntil the very end. Overall I enjoyed this book, yet a bit slow and heavy on the dialogue.\"
-  # link: https://amzn.to/3xLNFqX
   rating: ⭐⭐⭐⭐
-  # completeDate: 2023-11
+  completeDate: 2024-11
   # startDate: 2023-09-09
+
+- title: This Could Be Our Future 
+  author: Yancey Strickler
+  summary: Disucsses how individuals, companies, and communities can shift their values to create a more sustainable society by expanding their values outside of profies and shareholder value
+  rating: ⭐⭐⭐⭐
+  completeDate: 2024-11
+
+- title: Killing Commendatore
+  author: Haruki Murakami
+  rating: ⭐⭐⭐⭐
+  completeDate: 2023-11
+
+- title: A Wild Sheep's Chase
+  author: Haruki Murakami
+  rating: ⭐⭐⭐⭐
+  completeDate: 2023-11
+
+- title: Killing Commendatore
+  author: Haruki Murakami
+  rating: ⭐⭐⭐⭐
+  completeDate: 2023-11
 
 - title: Operations Anti-Patterns, DevOps Solutions
   author: Jeffery D. Smith
   summary: \"Operations Anti-Patterns, DevOps Solutions shows how to implement DevOps techniques in the kind of imperfect environments most developers work in. Part technology tutorial, part reference manual, and part psychology handbook, this practical guide shows you realistic ways to bring DevOps to your team when you don’t have the flexibility to make sweeping changes in organizational structure.\"
   link: https://amzn.to/3Pqgvmz
-  #startDate: 2022-07-10
-  #isCurrent: true # removing isCurrent status - intend to restart book from beginning
 
